@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\svart\\documents\\unreal projects\\conbinisim\\source\\conbinisim\\conbinisim.cpp",
+        "Source": "c:\\users\\svart\\documents\\github\\conbinisim\\conbinisim\\source\\conbinisim\\conbinisim.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\svart\\documents\\unreal projects\\conbinisim\\intermediate\\build\\win64\\x64\\conbinisimeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\svart\\documents\\github\\conbinisim\\conbinisim\\intermediate\\build\\win64\\x64\\conbinisimeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\svart\\documents\\unreal projects\\conbinisim\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\conbinisim\\definitions.conbinisim.h",
-            "c:\\users\\svart\\documents\\unreal projects\\conbinisim\\source\\conbinisim\\conbinisim.h"
+            "c:\\users\\svart\\documents\\github\\conbinisim\\conbinisim\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\conbinisim\\definitions.conbinisim.h",
+            "c:\\users\\svart\\documents\\github\\conbinisim\\conbinisim\\source\\conbinisim\\conbinisim.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

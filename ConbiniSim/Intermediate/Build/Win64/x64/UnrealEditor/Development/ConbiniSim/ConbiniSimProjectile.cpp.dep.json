@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\svart\\documents\\unreal projects\\conbinisim\\source\\conbinisim\\conbinisimprojectile.cpp",
+        "Source": "c:\\users\\svart\\documents\\github\\conbinisim\\conbinisim\\source\\conbinisim\\conbinisimprojectile.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\svart\\documents\\unreal projects\\conbinisim\\intermediate\\build\\win64\\x64\\conbinisimeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\svart\\documents\\github\\conbinisim\\conbinisim\\intermediate\\build\\win64\\x64\\conbinisimeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\svart\\documents\\unreal projects\\conbinisim\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\conbinisim\\definitions.conbinisim.h",
-            "c:\\users\\svart\\documents\\unreal projects\\conbinisim\\source\\conbinisim\\conbinisimprojectile.h",
-            "c:\\users\\svart\\documents\\unreal projects\\conbinisim\\intermediate\\build\\win64\\unrealeditor\\inc\\conbinisim\\uht\\conbinisimprojectile.generated.h",
+            "c:\\users\\svart\\documents\\github\\conbinisim\\conbinisim\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\conbinisim\\definitions.conbinisim.h",
+            "c:\\users\\svart\\documents\\github\\conbinisim\\conbinisim\\source\\conbinisim\\conbinisimprojectile.h",
+            "c:\\users\\svart\\documents\\github\\conbinisim\\conbinisim\\intermediate\\build\\win64\\unrealeditor\\inc\\conbinisim\\uht\\conbinisimprojectile.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",

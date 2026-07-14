@@ -67,7 +67,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C25614BB-5BEC-3A09-AE19-AB69881CB68A}</ProjectGuid>
+    <ProjectGuid>{1A8C195E-1F07-326A-952B-9FF1E94188AB}</ProjectGuid>
     <RootNamespace>ConbiniSim</RootNamespace>
   </PropertyGroup>
   <Import Project="UECommon.props" />
@@ -252,6 +252,8 @@
     <None Include="..\..\ConbiniSim.uproject"/>
     <None Include="..\..\Source\ConbiniSim.Target.cs"/>
     <None Include="..\..\Source\ConbiniSimEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
+    <None Include="..\..\UpgradeLog.htm"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>

@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{BB45A743-4A27-3951-4F4B-0A84EE45606A}",
+	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -17,6 +17,11 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "NexxNote",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/a445ccab-a13f-458d-989a-63c7466ef7d8"
 		}
 	]
 }

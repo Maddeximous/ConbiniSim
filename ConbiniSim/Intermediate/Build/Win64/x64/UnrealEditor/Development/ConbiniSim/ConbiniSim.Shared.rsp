@@ -1,6 +1,6 @@
 /I "."
-/I "C:\Users\svart\Documents\Unreal Projects\ConbiniSim\Intermediate\Build\Win64\UnrealEditor\Inc\ConbiniSim\UHT"
-/I "C:\Users\svart\Documents\Unreal Projects\ConbiniSim\Source"
+/I "C:\Users\svart\Documents\GitHub\ConbiniSim\ConbiniSim\Intermediate\Build\Win64\UnrealEditor\Inc\ConbiniSim\UHT"
+/I "C:\Users\svart\Documents\GitHub\ConbiniSim\ConbiniSim\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"

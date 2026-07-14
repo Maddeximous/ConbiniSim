@@ -1,12 +1,12 @@
-"C:\Users\svart\Documents\Unreal Projects\ConbiniSim\Intermediate\Build\Win64\UnrealEditor\Inc\ConbiniSim\UHT\ConbiniSim.init.gen.cpp"
-/FI"C:\Users\svart\Documents\Unreal Projects\ConbiniSim\Intermediate\Build\Win64\x64\ConbiniSimEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\svart\Documents\Unreal Projects\ConbiniSim\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConbiniSim\Definitions.ConbiniSim.h"
-/Yu"C:\Users\svart\Documents\Unreal Projects\ConbiniSim\Intermediate\Build\Win64\x64\ConbiniSimEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\svart\Documents\Unreal Projects\ConbiniSim\Intermediate\Build\Win64\x64\ConbiniSimEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\svart\Documents\Unreal Projects\ConbiniSim\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConbiniSim\ConbiniSim.init.gen.cpp.obj"
-/experimental:log "C:\Users\svart\Documents\Unreal Projects\ConbiniSim\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConbiniSim\ConbiniSim.init.gen.cpp.sarif"
-/sourceDependencies "C:\Users\svart\Documents\Unreal Projects\ConbiniSim\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConbiniSim\ConbiniSim.init.gen.cpp.dep.json"
-@"C:\Users\svart\Documents\Unreal Projects\ConbiniSim\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConbiniSim\ConbiniSim.Shared.rsp"
+"C:\Users\svart\Documents\GitHub\ConbiniSim\ConbiniSim\Intermediate\Build\Win64\UnrealEditor\Inc\ConbiniSim\UHT\ConbiniSim.init.gen.cpp"
+/FI"C:\Users\svart\Documents\GitHub\ConbiniSim\ConbiniSim\Intermediate\Build\Win64\x64\ConbiniSimEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\svart\Documents\GitHub\ConbiniSim\ConbiniSim\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConbiniSim\Definitions.ConbiniSim.h"
+/Yu"C:\Users\svart\Documents\GitHub\ConbiniSim\ConbiniSim\Intermediate\Build\Win64\x64\ConbiniSimEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\svart\Documents\GitHub\ConbiniSim\ConbiniSim\Intermediate\Build\Win64\x64\ConbiniSimEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\svart\Documents\GitHub\ConbiniSim\ConbiniSim\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConbiniSim\ConbiniSim.init.gen.cpp.obj"
+/experimental:log "C:\Users\svart\Documents\GitHub\ConbiniSim\ConbiniSim\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConbiniSim\ConbiniSim.init.gen.cpp.sarif"
+/sourceDependencies "C:\Users\svart\Documents\GitHub\ConbiniSim\ConbiniSim\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConbiniSim\ConbiniSim.init.gen.cpp.dep.json"
+@"C:\Users\svart\Documents\GitHub\ConbiniSim\ConbiniSim\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConbiniSim\ConbiniSim.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

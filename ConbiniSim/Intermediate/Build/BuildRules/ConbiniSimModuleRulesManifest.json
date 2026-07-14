@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\svart\\Documents\\Unreal Projects\\ConbiniSim\\Source\\ConbiniSim\\ConbiniSim.Build.cs",
-		"C:\\Users\\svart\\Documents\\Unreal Projects\\ConbiniSim\\Source\\ConbiniSim.Target.cs",
-		"C:\\Users\\svart\\Documents\\Unreal Projects\\ConbiniSim\\Source\\ConbiniSimEditor.Target.cs"
+		"C:\\Users\\svart\\Documents\\GitHub\\ConbiniSim\\ConbiniSim\\Source\\ConbiniSim\\ConbiniSim.Build.cs",
+		"C:\\Users\\svart\\Documents\\GitHub\\ConbiniSim\\ConbiniSim\\Source\\ConbiniSim.Target.cs",
+		"C:\\Users\\svart\\Documents\\GitHub\\ConbiniSim\\ConbiniSim\\Source\\ConbiniSimEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }
