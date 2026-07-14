@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ConbiniSim",
+			"Path": "..\\Source\\ConbiniSim.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ConbiniSimEditor",
+			"Path": "..\\Source\\ConbiniSimEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
