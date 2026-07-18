@@ -10,6 +10,13 @@
 				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/FirstPerson/Input/Actions/IA_RotateYaw.uasset",
 				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/Materials/M_Outline.uasset",
+				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/FirstPerson/Blueprints/BP_InteractableActor.uasset",
+				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/UV/R09NBWIIOF0O938K1S8S7M.uasset",
+				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/U9/H0E95HPD85YH0OPKJZXXIW.uasset",
+				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/FirstPerson/Blueprints/BP_Shelf.uasset",
+				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/FirstPerson/Enumerations/E_ProductType.uasset",
 				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
 				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
 				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
@@ -58,12 +65,7 @@
 				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
 				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
 				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
-				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/Materials/M_Outline.uasset",
 				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YI/UXLYSZNAKTQO5HG76SFKWE.uasset",
-				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/FirstPerson/Maps/FirstPersonMap.umap",
-				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/FirstPerson/Blueprints/BP_InteractableActor.uasset",
-				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/UV/R09NBWIIOF0O938K1S8S7M.uasset",
-				"C:/Users/svart/Documents/GitHub/ConbiniSim/ConbiniSim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/U9/H0E95HPD85YH0OPKJZXXIW.uasset",
 				"C:/Users/svart/Documents/Unreal Projects/ConbiniSim/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
